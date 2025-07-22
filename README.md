@@ -27,8 +27,10 @@
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/ritesh-raj-rry31/) 
-- 📧 riteshrajchurk@gmail.com  
+- 📧 riteshrajchurk@gmail.com
 
+---
+- [Portfolio](https://www.datascienceportfol.io/ritesh_raj)
 ---
 
 *Thank you for visiting my profile! Let's connect and collaborate.*
