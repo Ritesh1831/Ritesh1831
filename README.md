@@ -69,7 +69,7 @@
 
 ### 🤖 AI Agents & LLM Tools
 
-![LLM](https://img.shields.io/badge/Large-Language-Models-blueviolet?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-blueviolet?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Systems-orange?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-green?style=for-the-badge)
 
