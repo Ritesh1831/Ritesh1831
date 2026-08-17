@@ -75,10 +75,6 @@
 
 ---
 
-<img width="1129" height="237" alt="image" src="https://github.com/user-attachments/assets/c1a848bf-e840-48c4-a09a-bc6e5be36e45" />
-
----
-
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/ritesh-raj-rry31/) 
 - 📧 riteshrajchurk@gmail.com
